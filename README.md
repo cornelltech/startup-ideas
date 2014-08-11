@@ -22,7 +22,10 @@ Student responsibilities:
 * In between sessions, students record additional ideas in the idea tracker.
 * As a deliverable for the final session, students must present the teams and startup ideas they plan to execute on as their Startup Projects the following semester, and why they chose those teams and ideas.
 
-Weekly topics:
+Grading:
+* This practicum is graded pass/fail. In order to pass the practicum, each student must record at least one startup idea in the idea tracker in each of the first five sessions (for a total of at least five ideas per student, not including ideas recorded by teams during the working sessions).
+
+Schedule of sessions:
 * Imagining startup ideas (Sep 4)
 * Discovering startup ideas (Sep 18)
 * Synthesizing startup ideas (Oct 2)
@@ -31,7 +34,4 @@ Weekly topics:
 * Debating startup ideas (Nov 13)
 * Launching startup projects (Dec 4)
 
-Grading:
-* This practicum is graded pass/fail. In order to pass the practicum, each student must record at least one startup idea in the idea tracker in each of the first five sessions (for a total of at least five ideas per student, not including ideas recorded by teams during the working sessions).
-
-Refer to the [Entrepreneurial Lens wiki](https://github.com/cornelltech/entrepreneurial-lens/wiki) for more information.
+Refer to the [Entrepreneurial Lens wiki](https://github.com/cornelltech/entrepreneurial-lens/wiki) for more information on the sessions.
