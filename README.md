@@ -34,4 +34,4 @@ Schedule of sessions:
 * Debating startup ideas (Nov 13)
 * Launching startup projects (Dec 4)
 
-Refer to the [Entrepreneurial Lens wiki](https://github.com/cornelltech/entrepreneurial-lens/wiki) for more information on the sessions.
+Refer to the [Entrepreneurial Lens wiki](https://github.com/cornelltech/entrepreneurial-lens/wiki) for more information on the syllabus.
