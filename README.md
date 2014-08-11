@@ -1,4 +1,4 @@
-# Entrepreneurial Lens
+# Entrepreneurial Lens (CS 5092)
 
 This practicum helps students develop their ability to imagine and recognize startup ideas. 
 
