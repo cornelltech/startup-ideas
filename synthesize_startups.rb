@@ -15,7 +15,7 @@ num_startups = ARGV[2]
 startups = File.readlines(startups_filename)
 use_cases = File.readlines(use_cases_filename)
 
-# generate random new startups
+# synthesize random new startups
 num_startups.to_i.times do
 	startup = startups[rand(startups.length)].chomp
 	use_case = use_cases[rand(use_cases.length)].chomp
