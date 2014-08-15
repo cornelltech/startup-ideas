@@ -23,7 +23,7 @@ Student responsibilities:
 * As a deliverable for the final session, students must present the teams and startup ideas they plan to execute on as their Startup Projects the following semester, and why they chose those teams and ideas.
 
 Grading:
-* This practicum is graded pass/fail. In order to pass the practicum, each student must record at least one startup idea in the idea tracker in each of the first five sessions (for a total of at least five ideas per student, not including ideas recorded by teams during the working sessions).
+* In order to earn an A, each student must record at least ten startup ideas in the idea tracker over the course of the semester, either independently or as part of a team.
 
 Schedule of sessions:
 * Imagining startup ideas (Sep 4)
