@@ -26,12 +26,10 @@ Grading:
 * In order to earn an A, each student must record at least ten startup ideas in the idea tracker over the course of the semester, either independently or as part of a team.
 
 Schedule of sessions:
-* Imagining startup ideas (Sep 4)
-* Discovering startup ideas (Sep 18)
-* Synthesizing startup ideas (Oct 2)
-* Experiencing startup ideas (Oct 16)
-* Iterating startup ideas (Oct 30)
-* Debating startup ideas (Nov 13)
-* Launching startup projects (Dec 4)
-
-Refer to the [Entrepreneurial Lens wiki](https://github.com/cornelltech/entrepreneurial-lens/wiki) for more information on the syllabus.
+1. [Imagining startup ideas](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-1-imagining-startup-ideas) (Sep 4)
+1. [Discovering startup ideas](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-2-discovering-startup-ideas) (Sep 18)
+1. [Synthesizing startup ideas](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-3-synthesizing-startup-ideas) (Oct 2)
+1. [Experiencing startup ideas](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-4-experiencing-startup-ideas) (Oct 16)
+1. [Iterating startup ideas](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-5-iterating-startup-ideas) (Oct 30)
+1. [Debating startup ideas](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-6-debating-startup-ideas) (Nov 13)
+1. [Launching startup projects](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-7-launching-startup-projects) (Dec 4)
