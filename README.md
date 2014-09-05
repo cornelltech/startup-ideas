@@ -23,7 +23,7 @@ Student responsibilities:
 * As a deliverable for the final session, students must present the teams and startup ideas they plan to execute on as their Startup Projects the following semester, and why they chose those teams and ideas.
 
 Grading:
-* In order to earn an A, each student must record at least ten startup ideas in the idea tracker over the course of the semester, either independently or as part of a team.
+* In order to earn an A, each student must record at least ten startup ideas in the idea tracker over the course of the semester, either independently or as part of a team. Attendance and participation are required. Students are allowed one unexcused absence.
 
 Schedule of sessions:
 * [Imagining startup ideas](https://github.com/cornelltech/entrepreneurial-lens/wiki#week-1-imagining-startup-ideas) (Sep 4)
