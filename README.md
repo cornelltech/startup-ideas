@@ -1,3 +1,5 @@
+# Startup Ideas (CS 5092)
+
 This practicum helps students develop their ability to imagine, recognize, develop, and improve startup ideas. 
 
 In each session, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of visiting entrepreneurs, VCs, domain experts, and other practitioners.
