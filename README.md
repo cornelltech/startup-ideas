@@ -30,10 +30,10 @@ Grading:
 
 Weekly topics:
 
-1. BYOI (bring your own ideas) (Sep 3)
-1. Science fiction (Sep 17)
-1. VC Bait (Oct 1)
-1. Cutting edge (Oct 15)
-1. Entrepreneurial lens (Oct 29)
-1. Improving ideas (Nov 12)
-1. Launching startups (Dec 3)
+1. [BYOI](https://github.com/cornelltech/startup-ideas/wiki#week-1-byoi-bring-your-own-ideas) (Sep 3)
+1. [Science fiction](https://github.com/cornelltech/startup-ideas/wiki#week-2-science-fiction) (Sep 17)
+1. [VC Bait](https://github.com/cornelltech/startup-ideas/wiki#week-3-vc-bait) (Oct 1)
+1. [Cutting edge](https://github.com/cornelltech/startup-ideas/wiki#week-4-cutting-edge) (Oct 15)
+1. [Entrepreneurial lens](https://github.com/cornelltech/startup-ideas/wiki#week-5-entrepreneurial-lens) (Oct 29)
+1. [Improving ideas](https://github.com/cornelltech/startup-ideas/wiki#week-6-improving-ideas) (Nov 12)
+1. [Launching startups](https://github.com/cornelltech/startup-ideas/wiki#week-7-launching-startups) (Dec 3)
