@@ -31,9 +31,9 @@ Grading:
 Weekly topics:
 
 1. [BYOI](https://github.com/cornelltech/startup-ideas/wiki#week-1-byoi-bring-your-own-ideas) (Sep 3)
-1. [Science fiction](https://github.com/cornelltech/startup-ideas/wiki#week-2-science-fiction) (Sep 17)
+1. [Remember when](https://github.com/cornelltech/startup-ideas/wiki#week-2-remember-when) (Sep 17)
 1. [VC Bait](https://github.com/cornelltech/startup-ideas/wiki#week-3-vc-bait) (Oct 1)
-1. [Entrepreneurial lens](https://github.com/cornelltech/startup-ideas/wiki#week-4-entrepreneurial-lens) (Oct 15)
-1. [Cutting edge](https://github.com/cornelltech/startup-ideas/wiki#week-5-cutting-edge) (Oct 29)
-1. [Improving ideas](https://github.com/cornelltech/startup-ideas/wiki#week-6-improving-ideas) (Nov 12)
-1. [Launching startups](https://github.com/cornelltech/startup-ideas/wiki#week-7-launching-startups) (Dec 3)
+1. [Get personal](https://github.com/cornelltech/startup-ideas/wiki#week-4-get-personal) (Oct 15)
+1. [LAU](https://github.com/cornelltech/startup-ideas/wiki#week-5-lau-live-action-unicornucopia) (Oct 29)
+1. [Rapid fire critique](https://github.com/cornelltech/startup-ideas/wiki#week-6-rapid-fire-critique) (Nov 12)
+1. [Teaming](https://github.com/cornelltech/startup-ideas/wiki#week-7-teaming) (Dec 3)
