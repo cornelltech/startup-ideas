@@ -1,6 +1,6 @@
 # Startup Ideas (CS 5092)
 
-This course helps students develop their ability to imagine, recognize, develop, and improve startup ideas. 
+This studio-based course helps students develop their ability to imagine, recognize, develop, and improve startup ideas. 
 
 In each class, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of visiting entrepreneurs, VCs, domain experts, and other practitioners. Students invent and explore hundreds of startup ideas, and help each other evaluate and improve those ideas.
 
