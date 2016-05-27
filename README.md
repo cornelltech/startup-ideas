@@ -1,14 +1,12 @@
 # Startup Ideas (CS 5092)
 
-This practicum helps students develop their ability to imagine, recognize, develop, and improve startup ideas. 
+This course helps students develop their ability to imagine, recognize, develop, and improve startup ideas. 
 
-In each session, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of visiting entrepreneurs, VCs, domain experts, and other practitioners.
+In each class, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of visiting entrepreneurs, VCs, domain experts, and other practitioners. Students invent and explore hundreds of startup ideas, and help each other evaluate and improve those ideas.
 
-Over the course of the semester, students invent and explore hundreds of startup ideas, and help each other evaluate and improve those ideas.
+By the end of the course, students self-organize into co-founding teams around specific startup ideas that they will execute on in Startup Studio the following semester.
 
-By the end of the practicum, students self-organize into co-founding teams around specific startup ideas that they will execute on in Startup Studio the following semester.
-
-The objectives of the practicum are:
+The objectives of the course are:
 
 * To help students develop the ability to imagine, recognize, and develop startup ideas
 * To teach students how to evaluate and improve ideas
@@ -20,9 +18,9 @@ The objectives of the practicum are:
 Student responsibilities:
 
 * This practicum is a series of interactive working sessions that require the full participation of all students
-* Students must read the readings for a given week *before* that session
+* Students must read the readings for a given week *before* that class
 * Students must add to and improve startup ideas in Unicornucopia
-* As a deliverable for the final session, students will present the teams and startup ideas they plan to execute on in Startup Studio
+* As a deliverable for the final class, students will present the teams and startup ideas they plan to execute on in Startup Studio
 
 Grading:
 
