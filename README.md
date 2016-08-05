@@ -34,3 +34,9 @@ Schedule:
 1. [How to pull together a great team](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-5-how-to-pull-together-a-great-team) (Oct 13)
 1. [How to estimate market sizes](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-6-how-to-estimate-market-sizes) (Nov 10)
 1. [Our most promising ideas and teams, and the beginning](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-7-our-most-promising-ideas-and-teams-and-the-beginning) (Dec 1)
+
+Course wiki:
+
+* [Syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus) for this course
+* [Glossary](https://github.com/cornelltech/startup-ideas/wiki/Glossary) of Unicornucopia #tags
+* [Questions](https://github.com/cornelltech/startup-ideas/wiki/Questions) to help use #tags
