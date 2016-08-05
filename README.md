@@ -1,37 +1,36 @@
-# Startup Ideas (CS 5092)
+# Startup Ideas aka Future Shmuture (CS 5092)
 
 This studio-based course helps students develop their ability to imagine, recognize, develop, and improve startup ideas. 
 
-In each class, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of visiting entrepreneurs, VCs, domain experts, and other practitioners. Students invent and explore hundreds of startup ideas, and help each other evaluate and improve those ideas.
+In each class, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams and environments. Students invent and explore thousands of startup ideas, share their ideas with each other using Unicornucopia, and help each other evaluate and improve those ideas.
 
 By the end of the course, students self-organize into co-founding teams around specific startup ideas that they will execute on in Startup Studio the following semester.
 
 The objectives of the course are:
 
-* To help students develop the ability to imagine, recognize, and develop startup ideas
-* To teach students how to evaluate and improve ideas
-* To broaden students’ awareness of emerging platforms, markets, and investment theses
+* To help students develop the ability to imagine and recognize startup ideas
+* To teach students how to critique and improve ideas
+* To broaden students’ awareness of startup opportunities
 * To give students experience collaborating with many of their peers
 * To help students choose co-founders and a startup idea for Startup Studio
-* To encourage students to pursue ambitious, potentially transformative startup opportunities
+* To encourage students to pursue ambitious startup opportunities
 
 Student responsibilities:
 
-* This practicum is a series of interactive working sessions that require the full participation of all students
+* As a studio-based course, attendance and participation are critical for learning
 * Students must read the readings for a given week *before* that class
-* Students must add to and improve startup ideas in Unicornucopia
-* As a deliverable for the final class, students will present the teams and startup ideas they plan to execute on in Startup Studio
+* Students must actively use Unicornucopia
 
 Grading:
 
-* In order to earn an A, each student must enter at least ten startup ideas in Unicornucopia and improve at least thirty startup ideas in Unicornucopia.
+* In order to earn an A, each student must add at least 23 startup ideas to Unicornucopia and improve at least 69 startup ideas of other students in Unicornucopia.
 
-Weekly topics:
+Schedule:
 
-1. [BYOI](https://github.com/cornelltech/startup-ideas/wiki#week-1-byoi-bring-your-own-ideas) (Sep 3)
-1. [Remember when](https://github.com/cornelltech/startup-ideas/wiki#week-2-remember-when) (Sep 17)
-1. [VC Bait](https://github.com/cornelltech/startup-ideas/wiki#week-3-vc-bait) (Oct 1)
-1. [Get personal](https://github.com/cornelltech/startup-ideas/wiki#week-4-get-personal) (Oct 15)
-1. [LAU](https://github.com/cornelltech/startup-ideas/wiki#week-5-lau-live-action-unicornucopia) (Oct 29)
-1. [Rapid fire critique](https://github.com/cornelltech/startup-ideas/wiki#week-6-rapid-fire-critique) (Nov 12)
-1. [Teaming](https://github.com/cornelltech/startup-ideas/wiki#week-7-teaming) (Dec 3)
+1. [Where ideas come from](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-1-where-ideas-come-from) (Aug 25)
+1. [Where more ideas come from, and how to improve ideas](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-2-where-more-ideas-come-from-and-how-to-improve-ideas) (Sep 1)
+1. [How to further improve ideas, where even more ideas come from, and shall we play a game?](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-3-how-to-further-improve-ideas-where-even-more-ideas-come-from-and-shall-we-play-a-game) (Sep 8)
+1. [Our most promising ideas so far, and requests for startups](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-4-our-most-promising-ideas-so-far-and-requests-for-startups) (Sep 29)
+1. [How to pull together a great team](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-5-how-to-pull-together-a-great-team) (Oct 13)
+1. [How to estimate market sizes](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-6-how-to-estimate-market-sizes) (Nov 10)
+1. [Our most promising ideas and teams, and the beginning](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-7-our-most-promising-ideas-and-teams-and-the-beginning) (Dec 1)
