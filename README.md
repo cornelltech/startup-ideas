@@ -1,4 +1,4 @@
-# Startup Ideas aka Future Shmuture (CS 5092)
+# Startup Ideas (CS 5092)
 
 This studio-based course helps students develop their ability to imagine, recognize, develop, and improve startup ideas. 
 
