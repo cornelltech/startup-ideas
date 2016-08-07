@@ -5,8 +5,8 @@
 
 # command line usage
 if ARGV.length != 3
-	puts "Usage: <methods> <scenes> <teams>"
-	puts "Generates <teams> number of random combinations of ideation <methods> and <scenes>"
+	puts "Usage: <methods filename> <scenes filename> <number of teams>"
+	puts "Generates random combinations of ideation methods and scenes."
 	exit
 end
 
@@ -18,6 +18,10 @@ num_teams = ARGV[2]
 # read files
 methods = File.readlines(methods_filename)
 scenes = File.readlines(scenes_filename)
+
+# remove commented out lines
+methods.delete_if {|method| method.start_with?("//") }
+scenes.delete_if {|scene| scene.start_with?("//") }
 
 # generate random combinations
 num_teams.to_i.times do

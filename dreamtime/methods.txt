@@ -1,16 +1,20 @@
-#combo
-#expertise
-#faculty
-#featureinsearchofaproduct
-#friction
+// ideation methods
+// existing products and markets
 #ineedthis
-#modernity
-#redefine
-#relate
-#rememberwhen
+#userresearch
+#friction
 #remove
 #replace
-#rfs
+#redefine
+#relate
+// imaginary products and markets
+#expertise
+#modernity
+#rememberwhen
 #technologyinsearchofaproblem
-#thisistheone
-#userresearch
+#featureinsearchofaproduct
+// combinations thereof
+#combo
+// requests for startups
+#rfs
+#faculty
