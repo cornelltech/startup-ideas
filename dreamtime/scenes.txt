@@ -1,8 +1,9 @@
 // ideation scenes
+#artgazing
+#confinedspace
 #havingcoffee
-#somewhereconfined
-#somewhereexpansive
-#somewherenew
+#neverbeenhere
+#onthewater
 #songonrepeat
 #takingawalk
-#viewingart
+#withaview
