@@ -40,3 +40,5 @@ Course wiki:
 * [Syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus) for this course
 * [Glossary](https://github.com/cornelltech/startup-ideas/wiki/Glossary) of Unicornucopia #tags
 * [Questions](https://github.com/cornelltech/startup-ideas/wiki/Questions) to help use #tags
+
+Instructor: Greg Pass
