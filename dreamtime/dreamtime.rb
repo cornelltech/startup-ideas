@@ -23,10 +23,10 @@ scenes = File.readlines(scenes_filename)
 methods.delete_if {|method| method.start_with?("//") }
 scenes.delete_if {|scene| scene.start_with?("//") }
 
-puts "group number, method, scene"
+puts "team #\tmethod\tscene"
 # generate random combinations
 num_teams.to_i.times do |i|
 	method = methods[rand(methods.length)].chomp
 	scene = scenes[rand(scenes.length)].chomp
-	puts (i+1).to_s + "," + method + "," + scene
+	puts (i+1).to_s + "\t" + method + "\t" + scene
 end
