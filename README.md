@@ -29,7 +29,7 @@ Schedule:
 
 * Class 1: [Where ideas come from](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-1-where-ideas-come-from) (Aug 25)
 * Class 2: [Where more ideas come from, and how to improve ideas](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-2-where-more-ideas-come-from-and-how-to-improve-ideas) (Sep 1)
-* Class 3: [How to further improve ideas, where even more ideas come from, and shall we play a game?](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-3-how-to-further-improve-ideas-where-even-more-ideas-come-from-and-shall-we-play-a-game) (Sep 8)
+* Class 3: [Where even more ideas come from, and shall we play a game?](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-3-where-even-more-ideas-come-from-and-shall-we-play-a-game) (Sep 8)
 * Class 4: [Our most promising ideas so far, and requests for startups](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-4-our-most-promising-ideas-so-far-and-requests-for-startups) (Sep 29)
 * Class 5: [How to pull together a great team](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-5-how-to-pull-together-a-great-team) (Oct 13)
 * Class 6: [How to estimate market sizes](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-6-how-to-estimate-market-sizes) (Nov 10)
