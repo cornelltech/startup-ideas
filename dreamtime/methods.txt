@@ -15,6 +15,9 @@
 #featureinsearchofaproduct
 // combinations thereof
 #combo
+#vcbait
 // requests for startups
-#rfs
-#faculty
+#vc #rfs #remove
+#vc #rfs #replace
+#vc #rfs #redefine
+#vc #rfs #relate
