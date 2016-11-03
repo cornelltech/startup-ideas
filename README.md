@@ -23,7 +23,7 @@ Student responsibilities:
 
 Grading:
 
-* In order to earn an A, each student must add at least 23 startup ideas or Wings to Unicornucopia, and constructively comment upon at least 69 startup ideas of other students in Unicornucopia.
+* In order to earn an A, each student must add at least 23 startup ideas or Wings to Unicornucopia, and constructively comment on at least 69 startup ideas of other students in Unicornucopia.
 
 Schedule:
 
