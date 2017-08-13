@@ -28,6 +28,5 @@ Course wiki:
 
 Instructors: 
 
-* **Greg Pass** (Section 1). Greg is the founding Chief Entrepreneurial Officer and a Professor of Practice at Cornell Tech. A serial entrepreneur, Greg was the first CTO and VP of Engineering at Twitter, the Co-Founder and CTO at realtime search startup Summize, acquired by Twitter, and the Co-Founder and CTO at image search startup ToFish, acquired by AOL. He is also Chairman of the Rhizome Foundation, supporting contemporary art that creates richer and more critical digital cultures, and is an active advisor to startup companies and nonprofits, including Medium.
-
-* **Rei Inamoto** (Section 2). Rei...
+* [Greg Pass](https://tech.cornell.edu/people/greg-pass) (section 1)
+* Rei Inamoto (section 2)
