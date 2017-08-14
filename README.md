@@ -15,9 +15,28 @@ The objectives of the course are:
 * To encourage students to pursue ambitious startup opportunities
 * To help students choose co-founders and a startup idea for Startup Studio
 
+Instructors: 
+
+* [Greg Pass](https://tech.cornell.edu/people/greg-pass) (section 1)
+* Rei Inamoto (section 2)
+
+Schedule:
+
+* **Class 1** (Sep 7): [syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-1) | [slides](https://github.com/cornelltech/startup-ideas/wiki/Slides#class-1) | [homework](https://github.com/cornelltech/startup-ideas/wiki/Homework#class-1)
+* **Class 2** (Sep 21): [syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-2) | [slides](https://github.com/cornelltech/startup-ideas/wiki/Slides#class-2) | [homework](https://github.com/cornelltech/startup-ideas/wiki/Homework#class-2)
+* **Class 3** (Oct 5): [syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-3) | [slides](https://github.com/cornelltech/startup-ideas/wiki/Slides#class-3) | [homework](https://github.com/cornelltech/startup-ideas/wiki/Homework#class-3)
+* **Class 4** (Oct 19): [syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-4) | [slides](https://github.com/cornelltech/startup-ideas/wiki/Slides#class-4) | [homework](https://github.com/cornelltech/startup-ideas/wiki/Homework#class-4)
+* **Class 5** (Nov 2): [syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-5) | [slides](https://github.com/cornelltech/startup-ideas/wiki/Slides#class-5) | [homework](https://github.com/cornelltech/startup-ideas/wiki/Homework#class-5)
+* **Class 6** (Nov 9): [syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-6) | [slides](https://github.com/cornelltech/startup-ideas/wiki/Slides#class-6) | [homework](https://github.com/cornelltech/startup-ideas/wiki/Homework#class-6)
+* **Class 7** (Nov 30): [syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus#class-7) | [slides](https://github.com/cornelltech/startup-ideas/wiki/Slides#class-7) | [homework](https://github.com/cornelltech/startup-ideas/wiki/Homework#class-7)
+
+The two sections meet at:
+
+* 3:10p (Greg's section)
+* 4:35p (Rei's section)
+
 Course wiki:
 
-* [Schedule](https://github.com/cornelltech/startup-ideas/wiki/Schedule)
 * [Syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus)
 * [Slides](https://github.com/cornelltech/startup-ideas/wiki/Slides)
 * [Homework](https://github.com/cornelltech/startup-ideas/wiki/Homework)
@@ -25,8 +44,3 @@ Course wiki:
 * [Policies](https://github.com/cornelltech/startup-ideas/wiki/Policies) (attendance, etc.)
 * [Glossary](https://github.com/cornelltech/startup-ideas/wiki/Glossary) of Unicornucopia #tags
 * [Questions](https://github.com/cornelltech/startup-ideas/wiki/Questions) to help use #tags
-
-Instructors: 
-
-* [Greg Pass](https://tech.cornell.edu/people/greg-pass) (section 1)
-* Rei Inamoto (section 2)
