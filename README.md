@@ -32,8 +32,8 @@ Schedule:
 
 The two sections meet at:
 
-* 3:10p (Greg's section)
-* 4:35p (Rei's section)
+* 3:10p–4:25p (Greg's section)
+* 4:35p–5:50p (Rei's section)
 
 Course wiki:
 
