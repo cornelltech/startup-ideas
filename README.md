@@ -17,12 +17,12 @@ The objectives of the course are:
 
 Course wiki:
 
-* [Syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus)
 * [Schedule](https://github.com/cornelltech/startup-ideas/wiki/Schedule)
+* [Syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus)
 * [Slides](https://github.com/cornelltech/startup-ideas/wiki/Slides)
 * [Homework](https://github.com/cornelltech/startup-ideas/wiki/Homework)
-* [Policies](https://github.com/cornelltech/startup-ideas/wiki/Policies) (attendance, etc.)
 * [Grading](https://github.com/cornelltech/startup-ideas/wiki/Grading)
+* [Policies](https://github.com/cornelltech/startup-ideas/wiki/Policies) (attendance, etc.)
 * [Glossary](https://github.com/cornelltech/startup-ideas/wiki/Glossary) of Unicornucopia #tags
 * [Questions](https://github.com/cornelltech/startup-ideas/wiki/Questions) to help use #tags
 
