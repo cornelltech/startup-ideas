@@ -1,7 +1,5 @@
 # Startup Ideas (TECH 5100)
 
-***UNDER CONSTRUCTION FOR FALL 2017***
-
 This studio-based course helps students develop their ability to imagine, recognize, inspire, and improve startup ideas.
 
 In each class, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of visiting entrepreneurs, VCs, domain experts, and other practitioners. Students invent and explore thousands of startup ideas, and help each other evaluate and improve those ideas.
