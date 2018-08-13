@@ -9,6 +9,7 @@ The objectives of the course are:
 * To help students develop the ability to imagine and recognize new ideas
 * To teach students how to critique and improve ideas
 * To broaden students’ awareness of startup and internal venture opportunities
+* To teach students the composition and value of healthy teams
 * To give students experience collaborating with many of their peers
 * To encourage students to pursue ambitious, ideatory opportunities
 * To help students choose co-founders and a new product idea for spring Studio
