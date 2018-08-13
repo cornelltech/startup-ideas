@@ -1,17 +1,17 @@
 # Startup Ideas (TECH 5100)
 
-This studio-based course helps students develop their ability to imagine, recognize, inspire, and improve startup ideas.
+This studio-based course helps students develop their ability to imagine, recognize, inspire, and improve new product ideas for startups, interval ventures, or others forms of innovation.
 
-In each class, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of visiting entrepreneurs, VCs, domain experts, and other practitioners. Students invent and explore thousands of startup ideas, and help each other evaluate and improve those ideas.
+In each class, students learn a different approach to product ideation or product critique, then practice that approach, working in many different teams, and often with the advice of practicing entrepreneurs, VCs, domain experts, and other practitioners. Students invent and explore thousands of ideas, and help each other evaluate and improve those ideas.
 
 The objectives of the course are:
 
-* To help students develop the ability to imagine and recognize startup ideas
+* To help students develop the ability to imagine and recognize new ideas
 * To teach students how to critique and improve ideas
-* To broaden students’ awareness of startup opportunities
+* To broaden students’ awareness of startup and internal venture opportunities
 * To give students experience collaborating with many of their peers
-* To encourage students to pursue ambitious startup opportunities
-* To help students choose co-founders and a startup idea for Startup Studio
+* To encourage students to pursue ambitious, ideatory opportunities
+* To help students choose co-founders and a new product idea for spring Studio
 
 Instructors: 
 
