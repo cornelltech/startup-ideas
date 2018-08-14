@@ -1,4 +1,4 @@
-# Startup Ideas (TECH 5100)
+# Startup & Product Ideas (TECH 5100)
 
 This studio-based course helps students develop their ability to imagine, recognize, inspire, and improve new product ideas for startups, interval ventures, or others forms of innovation.
 
