@@ -42,6 +42,6 @@ Course wiki:
 * [Homework](https://github.com/cornelltech/startup-ideas/wiki/Homework)
 * [Grading](https://github.com/cornelltech/startup-ideas/wiki/Grading)
 * [Policies](https://github.com/cornelltech/startup-ideas/wiki/Policies) (attendance, etc.)
-* [Glossary](https://github.com/cornelltech/startup-ideas/wiki/Glossary) of Uni #tags
+* [Glossary](https://github.com/cornelltech/startup-ideas/wiki/Glossary) of Uni #tags and Follow-ups
 * [Questions](https://github.com/cornelltech/startup-ideas/wiki/Questions) to help use #tags
-* [Uni](https://github.com/cornelltech/startup-ideas/wiki/Uni)
+* [Uni](https://github.com/cornelltech/startup-ideas/wiki/Uni) best practices
