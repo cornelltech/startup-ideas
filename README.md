@@ -44,4 +44,4 @@ Course wiki:
 * [Policies](https://github.com/cornelltech/startup-ideas/wiki/Policies) (attendance, etc.)
 * [Glossary](https://github.com/cornelltech/startup-ideas/wiki/Glossary) of Uni #tags
 * [Questions](https://github.com/cornelltech/startup-ideas/wiki/Questions) to help use #tags
-* [Uni Best Practices](https://github.com/cornelltech/startup-ideas/wiki/Uni-Best-Practices)
+* [Uni](https://github.com/cornelltech/startup-ideas/wiki/Uni)
