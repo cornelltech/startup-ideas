@@ -16,8 +16,8 @@ The objectives of the course are:
 
 Instructors: 
 
-* [Greg Pass](https://tech.cornell.edu/people/greg-pass) (sections 1 and 3)
-* [Rei Inamoto](https://www.linkedin.com/in/reiinamoto) (sections 2 and 3)
+* [Greg Pass](https://tech.cornell.edu/people/greg-pass) (section 1 and part of 3)
+* [Rei Inamoto](https://www.linkedin.com/in/reiinamoto) (section 2 and part of 3)
 
 Schedule:
 
