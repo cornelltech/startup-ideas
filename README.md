@@ -33,7 +33,7 @@ The three sections meet at:
 
 * 1:55p–3:10p (Greg's section)
 * 3:20p–4:35p (Rei's section)
-* 4:45p–6:00p (Greg/Rei's section)
+* 4:45p–6:00p (Rei's section (with some lectures by Greg))
 
 Course wiki:
 
