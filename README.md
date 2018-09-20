@@ -19,7 +19,7 @@ Instructors:
 * [Greg Pass](https://tech.cornell.edu/people/greg-pass) (section 1 and part of 3)
 * [Rei Inamoto](https://www.linkedin.com/in/reiinamoto) (section 2 and part of 3)
 
-Seating & Teaming Assignment (https://docs.google.com/spreadsheets/d/1fJvdLZtBvrdqPytRxfY7Cs7n5t_Y-2OJR45MqT7DTaQ/edit?usp=sharing)
+Seating & Teaming Assignment: http://bit.ly/2xDGWP2
 
 Schedule:
 
