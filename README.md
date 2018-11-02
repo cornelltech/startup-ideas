@@ -16,8 +16,8 @@ The objectives of the course are:
 
 Instructors: 
 
-* [Greg Pass](https://tech.cornell.edu/people/greg-pass) (section 1 and part of 3)
-* [Rei Inamoto](https://www.linkedin.com/in/reiinamoto) (section 2 and part of 3)
+* [Greg Pass](https://tech.cornell.edu/people/greg-pass) (section 1 and part of 3), class grader Pargol Gheissari
+* [Rei Inamoto](https://www.linkedin.com/in/reiinamoto) (section 2 and part of 3), class grader Ben Dobkin
 
 Seating & Teaming Assignment: http://bit.ly/2xDGWP2
 
