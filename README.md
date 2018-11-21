@@ -37,6 +37,8 @@ The three sections meet at:
 * 3:20p–4:35p (Rei's section)
 * 4:45p–6:00p (Rei's section (with some lectures by Greg))
 
+**All final homework and make-up assignments are due by Dec 4 at 3p**, including all ideas and thanks in Uni that will count toward your grade.
+
 Course wiki:
 
 * [Syllabus](https://github.com/cornelltech/startup-ideas/wiki/Syllabus)
